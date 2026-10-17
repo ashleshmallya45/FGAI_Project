@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+venv/
+*.pyc
+checkpoints/*.pt
+checkpoints/*.json
+data/input.txt
+results/*.csv
+results/*.png
+results/generated_samples.txt
+results/analysis_report.md
